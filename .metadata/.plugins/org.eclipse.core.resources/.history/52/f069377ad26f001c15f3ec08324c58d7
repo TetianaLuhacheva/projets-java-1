@@ -1,0 +1,90 @@
+package fr.tetiana.banque_clientel;
+
+import fr.tetiana.banque_clientel.model.Client;
+
+public class Bienvenue {
+
+	public Bienvenue() {
+		super();
+			
+		// MENU :
+
+		Out.w(" ______________________________________");
+		Out.w("|                                      |");
+		Out.w("|       Bienvenue à la banque !        |");
+		Out.w("|______________________________________|");
+		Out.w("\n Please, log in :");
+		
+		// CLIENT :
+		
+		Out.wc("\t\tN°: \t\t");
+		float numeroClient = Out.rFloat();
+		Out.w("Numéro est confirmé, merci !");
+
+
+		Out.wc("\t\tNom: \t");
+		String nomClient = Out.r();
+		Out.w("Nom est confirmé, merci !");
+		
+		float montant = 0;
+		
+		// CLient
+		Client client = new Client(numeroClient, nomClient, montant);
+		
+
+		Out.w(" ______________________________________");
+		Out.w("|                                      |");
+		Out.w("|     Merci ! Vous est autorisé !      |");
+		Out.w("|                                      |");
+		Out.w("|            Qu'est-ce que             |");
+		Out.w("|        vous voudriez faire ?         |");
+		Out.w("|______________________________________|");
+		Out.w("\n");
+		
+		Out.w("1 - Creer un compte"); 
+		
+		
+		
+		//
+		
+
+		// Compte
+//		float numeroCompteBancaire = 0;
+//		String typeCompteBancaire;
+//		CompteBancaire compteBancaire = new compteBancaire(numero, numeroClient); 
+		
+		// effectuer des versements ou des retraits
+		
+		
+		
+		
+		
+		
+		
+		/*
+		 * 	Une application des comptes bancaires
+		 ✓	Permettra la création des comptes qui appartiennent a des clients
+		 ✓	Un client peut posséder plusieurs compte		
+		 ✓	Les comptes sont types (Courant et Epargne)
+		 ✓	Lis peuvent être de types morales (entreprise) ou  physique.
+		 *	Un client de TYPE MORALE :
+		  		doit renseigner son représentant :
+		  		 	qui une personne physique;
+		  		 	qui a un nom, 
+		  		 	son N° de sécurité sociale, 
+		  		 	le téléphone, etc.
+		 *	L’application doit permettre d’effectuer des versements ou des retraits
+		 * 	Chaque transaction doit avoir une date, une référence,  le numéro de compte concerné ainsi que le montant
+		 *	Lors de la  création des comptes de types d’épargne, un montant initial est requis.
+		    de 100 euro
+
+		 */
+
+		
+		
+		
+
+
+	}
+	
+}

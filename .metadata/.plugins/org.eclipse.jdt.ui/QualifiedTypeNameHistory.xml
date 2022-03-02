@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.airtel.Encaissement"/>
+    <fullyQualifiedTypeName name="com.orange.EncaissementOrange"/>
+    <fullyQualifiedTypeName name="java.awt.event.ActionListener"/>
+    <fullyQualifiedTypeName name="javax.swing.JTextField"/>
+    <fullyQualifiedTypeName name="fr.whale.version02.models.Compte"/>
+    <fullyQualifiedTypeName name="fr.whale.version02.models.User"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="javax.swing.JPanel"/>
+    <fullyQualifiedTypeName name="javax.swing.JButton"/>
+    <fullyQualifiedTypeName name="com.test.Homme"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="fr.tetianacontrat.ICalcule"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="fr.tetiana.partage.IPartage"/>
+    <fullyQualifiedTypeName name="fr.tetiana.partage.Facebook"/>
+    <fullyQualifiedTypeName name="fr.tetiana.partage.Twitter"/>
+</qualifiedTypeNameHistroy>

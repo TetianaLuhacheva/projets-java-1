@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\Tetia\Downloads\projet_de_groupe_mise_a_jour_0.1\.metadata\.plugins\org.eclipse.jdt.core
+3335395297.index
+885733619.index
+1865797976.index

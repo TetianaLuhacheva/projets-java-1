@@ -1,0 +1,30 @@
+package fr.tetiana.casino;
+
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {		
+		
+		// 1. Creer un caisse
+		
+		// Instances de classe CAISSE
+		Caisse caisse1 = new Caisse();
+		Out.r("Saisissez votre montant :");
+		
+		//
+		double montant2 = Out.rDouble();
+		
+		// Pour la classe CAISSE
+		caisse1.setMontantCaisse(montant2);
+		Out.r("Caisse a acceptе : " + montant2 + " euros.");
+
+		Out.c();		
+		
+		// 2. Creer 
+		Out.r("\\nEst-ce que vous voulez effectuer une transaction?\n1-Oui\n2-non\nVotre chois: ");
+		
+
+	}
+
+}

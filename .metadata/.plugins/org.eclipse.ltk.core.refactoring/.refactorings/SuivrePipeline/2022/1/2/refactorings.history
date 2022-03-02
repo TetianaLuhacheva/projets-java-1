@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;fr.whale.version02.ui.UserUI.java&apos; to &apos;UserPage.java&apos;&#x0D;&#x0A;- Original project: &apos;SuivrePipeline&apos;&#x0D;&#x0A;- Original element: &apos;fr.whale.version02.ui.UserUI.java&apos;&#x0D;&#x0A;- Renamed element: &apos;fr.whale.version02.ui.UserPage.java&apos;" description="Rename compilation unit &apos;UserUI.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;fr.whale.version02.ui{UserUI.java" name="UserPage.java" references="false" stamp="1641793065294" version="1.0"/>
+</session>

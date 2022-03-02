@@ -1,0 +1,16 @@
+package fr.tetiana.casino;
+
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		Caisse caisse1 = new Caisse();
+		
+
+		public static Scanner scan = new Scanner(System.in);	
+		
+		Out.r()
+;	}
+
+}

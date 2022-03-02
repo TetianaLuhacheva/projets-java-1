@@ -1,0 +1,27 @@
+package fr.tetiana.casino;
+
+import fr.tetiana.casino.Out;
+import fr.tetiana.casino.Caisse;
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+			 
+			// Instances de classe CAISSE
+			Caisse caisse1 = new Caisse();
+			Out.r("Saisissez votre montant :");
+	
+			Scanner scan = new Scanner(System.in);	
+			double montant1 = scan.nextDouble();
+			
+			// Pour la classe CAISSE
+			caisse1.setMontantCaisse(montant1);
+			Out.r("Caisse a acceptе : " + montant1 + " euros.");
+			
+			scan.close();
+		
+
+	}
+
+}

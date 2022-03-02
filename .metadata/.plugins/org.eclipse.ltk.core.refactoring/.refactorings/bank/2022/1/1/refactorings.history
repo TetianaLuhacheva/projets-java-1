@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;ApplicationBancaire.java&apos; to &apos;banque_clientel/src/fr.tetiana.banque_clientel&apos;&#x0D;&#x0A;- Original project: &apos;bank&apos;&#x0D;&#x0A;- Destination element: &apos;banque_clientel/src/fr.tetiana.banque_clientel&apos;&#x0D;&#x0A;- Original element: &apos;fr.tetiana.bank.ApplicationBancaire.java&apos;" description="Copy compilation unit" destination="=banque_clientel/src&lt;fr.tetiana.banque_clientel" element1="/src&lt;fr.tetiana.bank{ApplicationBancaire.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1641570725359" units="1" version="1.0"/>
+</session>

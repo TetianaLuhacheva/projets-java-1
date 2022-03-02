@@ -1,0 +1,37 @@
+package fr.tetiana.casino;
+
+public class Transaction {
+	private double montantTransaction;
+	private String typeTransaction;
+	private Caisse typeCaisse;
+	private String nomOperateur;
+	
+	
+	public Transaction() {
+		super();
+	}
+	public double getMontantTransaction() {
+		return montantTransaction;
+	}
+	public void setMontantTransaction(double montantTransaction) {
+		this.montantTransaction = montantTransaction;
+	}
+	public String getTypeTransaction() {
+		return typeTransaction;
+	}
+	public void setTypeTransaction(String typeTransaction) {
+		this.typeTransaction = typeTransaction;
+	}
+	public Caisse getTypeCaisse() {
+		return typeCaisse;
+	}
+	public void setTypeCaisse(Caisse typeCaisse) {
+		this.typeCaisse = typeCaisse;
+	}
+	public String getNomOperateur() {
+		return nomOperateur;
+	}
+	public void setNomOperateur(String nomOperateur) {
+		this.nomOperateur = nomOperateur;
+	}
+}
